@@ -29,3 +29,6 @@
 - [归并排序](https://github.com/Mr-Joke/Algorithm/blob/master/sort/src/MergeSort.java)
 - [快速排序](https://github.com/Mr-Joke/Algorithm/blob/master/sort/src/QuickSort.java)
 - [堆排序](https://github.com/Mr-Joke/Algorithm/blob/master/sort/src/HeapSort.java)
+
+#### 查找
+- [二分查找](https://github.com/Mr-Joke/Algorithm/blob/master/search/src/BinarySearch.java)
