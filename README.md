@@ -23,6 +23,7 @@
 - C组
   - 第六届
      1. [隔行变色](https://github.com/Mr-Joke/Algorithm/blob/master/C/06/src/A.java)
+     2. [立方尾不变](https://github.com/Mr-Joke/Algorithm/blob/master/C/06/src/B.java)
   - 第七届
      1. [有奖猜谜](https://github.com/Mr-Joke/Algorithm/blob/master/C/07/src/A.java)
      2. [煤球数目](https://github.com/Mr-Joke/Algorithm/blob/master/C/07/src/B.java)
