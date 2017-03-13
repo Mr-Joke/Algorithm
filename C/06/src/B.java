@@ -7,20 +7,20 @@
 public class B{
     public static void main(String[] args){
     	int count = 0;
-	for(long i = 1;i < 10000;i++){
-	    //立方后的结果
-	    long trible = i * i * i;
-	    //将原数字转换成字符串
-	    String transferSrc = String.valueOf(i);
-	    //将立方后的结果转换成字符串
-	    String transfer = String.valueOf(trible);
-	    //求出需要截取子串的起始下标
-	    int index = transfer.length() - transferSrc.length();
-	    //截取子串，比较是否与原数字相等
-	    String result = transfer.substring(index);
-	    if(result.equals(transferSrc))
-		count++;
-	}
-	System.out.println(count);
+    	for(long i = 1;i < 10000;i++){
+    	    //立方后的结果
+    	    long trible = i * i * i;
+    	    //将原数字转换成字符串
+    	    String transferSrc = String.valueOf(i);
+    	    //将立方后的结果转换成字符串
+    	    String transfer = String.valueOf(trible);
+    	    //求出需要截取子串的起始下标
+    	    int index = transfer.length() - transferSrc.length();
+    	    //截取子串，比较是否与原数字相等
+    	    String result = transfer.substring(index);
+    	    if(result.equals(transferSrc))
+    		  count++;
+    	}
+    	System.out.println(count);
     }
 }
