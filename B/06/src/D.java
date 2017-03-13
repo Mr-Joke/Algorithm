@@ -9,7 +9,7 @@ import java.util.Vector;
 public class D{
 
   public static void main(String[] args) {
-    System.out.println(f(12,17));
+    System.out.println(f(7,19));
   }
 
   public static int f(int n, int m)
@@ -23,7 +23,7 @@ public class D{
   			n *= 10;
   			n = n % m;
   			if(n==0) return 0;
-  			if(v.indexOf(n)>=0) return v.size();  //填空
+  			if(v.indexOf(n)>=0) return v.size() - v.indexOf(n);  //填空
   		}
   	}
 }
