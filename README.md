@@ -28,6 +28,8 @@
      4. [循环节长度](https://github.com/Mr-Joke/Algorithm/blob/master/B/06/src/D.java)
      5. [格子中输出](https://github.com/Mr-Joke/Algorithm/blob/master/C/06/src/E.java)
      6. [奇妙的数字](https://github.com/Mr-Joke/Algorithm/blob/master/C/06/src/F.java)
+     7. [加法变乘法](https://github.com/Mr-Joke/Algorithm/blob/master/B/06/src/G.java)
+     8.
   - 第七届
      1. [有奖猜谜](https://github.com/Mr-Joke/Algorithm/blob/master/C/07/src/A.java)
      2. [煤球数目](https://github.com/Mr-Joke/Algorithm/blob/master/C/07/src/B.java)
@@ -59,3 +61,5 @@
 ### 蛮力法（Brute Force Method)
 
 - [最大公约数](https://github.com/Mr-Joke/Algorithm/blob/master/BruteForce/src/CommFactor.java)
+- [顺序查找](https://github.com/Mr-Joke/Algorithm/blob/master/BruteForce/src/SequentialSearch.java)
+- [串匹配问题BF](https://github.com/Mr-Joke/Algorithm/blob/master/BruteForce/src/BF.java)
