@@ -1,3 +1,10 @@
+/**
+Description:<br>
+顺序查找实现类<br>
+Time 2017/03/14
+@author Mrzhou
+@version 1.8.0_112
+*/
 import java.util.Scanner;
 public class SequentialSearch{
   public static void main(String[] args) {

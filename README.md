@@ -11,8 +11,9 @@
 
 ## 重要问题(Important Problem)
 
-- [排序](https://github.com/Mr-Joke/Algorithm/blob/master/sort.md)
-- [查找](https://github.com/Mr-Joke/Algorithm/blob/master/search.md)
+- [排序问题](https://github.com/Mr-Joke/Algorithm/blob/master/sort.md)
+- [查找问题](https://github.com/Mr-Joke/Algorithm/blob/master/search.md)
+- [组合问题](https://github.com/Mr-Joke/Algorithm/blob/master/combination.md)
 
 ## 算法分类(Algorithm Classification)
 

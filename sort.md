@@ -1,4 +1,4 @@
-## 排序(Sort)
+## 排序问题(Sort Problem)
 
 - [冒泡排序](https://github.com/Mr-Joke/Algorithm/blob/master/sort/src/BubbleSort.java)
 - [选择排序](https://github.com/Mr-Joke/Algorithm/blob/master/sort/src/SelectSort.java)

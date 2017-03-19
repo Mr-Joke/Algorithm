@@ -1,3 +1,10 @@
+/**
+Description:<br>
+串匹配问题实现类(KMP)<br>
+Time 2017/03/18
+@author Mrzhou
+@version 1.8.0_112
+*/
 public class KMP{
   public static void main(String[] args) {
     String mainStr = "ababaababcb";
@@ -8,6 +15,8 @@ public class KMP{
 
   /**
   串匹配问题(KMP)：<br>
+  1.先出求出模式串的next数组<br>
+  2.再根据next数组来进行匹配<br>
 
   @param mainStr 主串
   @param subStr 模式串
