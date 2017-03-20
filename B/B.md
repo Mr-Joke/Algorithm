@@ -19,3 +19,4 @@
   3. [凑算式](https://github.com/Mr-Joke/Algorithm/blob/master/B/07/src/Exam07_03.java)
   4. [运动员分小组](https://github.com/Mr-Joke/Algorithm/blob/master/B/07/src/Exam07_04.java)
   5. [5人组星球观察团](https://github.com/Mr-Joke/Algorithm/blob/master/B/07/src/Exam07_05.java)
+  6. [方格填数](https://github.com/Mr-Joke/Algorithm/blob/master/B/07/src/Exam07_06.java)
