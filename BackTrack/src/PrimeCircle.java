@@ -25,10 +25,13 @@ public class PrimeCircle{
     Scanner in = new Scanner(System.in);
     int n = in.nextInt();
     int[] result = getPrimeCircle(n);
-    for (int i = 0;i < n ;i++ ) {
-      System.out.print(result[i] + " ");
+    if(result == null) System.out.println("不存在 " + n +" 个数的素环数");
+      else{
+      for (int i = 0;i < n ;i++ ) {
+        System.out.print(result[i] + " ");
+      }
+      System.out.println();
     }
-    System.out.println();
   }
 
   /**
@@ -41,21 +44,15 @@ public class PrimeCircle{
     int[] array = init(n);//首先初始化全0，便于每趟从1开始
     int index = 1;
     array[0] = 1;//从一开始考察
-    while(index < n){
+    while(index > 0){
       array[index] += 1;//先填进去
       while(array[index] <= n){
-        if(isSatisfy(array,index)){
-          //满足
-          index++;
-          break;
-        }
+        if(isSatisfy(array,index)) break;//满足
         else array[index] += 1;//不满足，考察下一个
       }
-      if(index == n) return array;//全都填完，返回结果
-      if(array[index] > n){
-        //当前考察的数超过范围（即当前位置没有符合的数），回溯
-        array[index--] = 0;
-      }
+      if(array[index] <= n && index == n - 1) return array;//全都填完，返回结果
+      if(array[index] <= n && index < n - 1) index++;//填写下一个位置
+      else array[index--] = 0;//当前考察的数超过范围（即当前位置没有符合的数），回溯
     }
     return null;
   }
@@ -72,6 +69,10 @@ public class PrimeCircle{
       if(array[i] == array[index]) return false;
     }
     if(!isPrime(array[index-1],array[index])) return false;
+    if (index == array.length - 1) {
+      if(isPrime(array[index],array[0])) return true;
+      else return false;
+    }
     return true;
   }
 
