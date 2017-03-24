@@ -20,6 +20,7 @@
 
 - [图着色问题](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/src/GraphColor.java)
   - [思考过程](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/docs/GraphColor.md)
+- [哈密顿回路问题](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/src/Hamilton.java)
 
 #### 2.2其他问题
 
