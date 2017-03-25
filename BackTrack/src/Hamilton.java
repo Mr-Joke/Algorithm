@@ -23,6 +23,10 @@ public class Hamilton{
     Scanner in = new Scanner(System.in);
     System.out.print("请输入城市的个数：");
     int n = in.nextInt();
+    if(n <= 0){
+      System.out.println("请认真对待本程序!!!");
+      return;
+    }
     System.out.println("请输入 " + n + " 个城市的路径图：");
     int[][] graph = new int[n][n];
     for (int i = 0;i < n ;i++ ) {
@@ -51,6 +55,7 @@ public class Hamilton{
     int[] track = initTrack(n);//初始化路径
     int index = 1;
     track[0] = 1;//默认从1城市开始
+    if(n == 1) return track;
     while(index > 0){
       track[index] += 1;//搜索城市（解空间）
       while(track[index] <= n){

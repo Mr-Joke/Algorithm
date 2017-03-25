@@ -1,4 +1,10 @@
 ### 图着色问题
+#### 问题描述
+
+- 给定无向连通图G=(V,E)，求最小的整数m，用m种颜色对G中的顶点着色，使得任意两个相邻顶点着色不同
+
+- 输入：n个顶点的图G=(V,E)，m种颜色
+- 输出：n个顶点的涂色情况color[n]
 
 #### 想法
 
@@ -24,4 +30,8 @@
 
 #### 涂色结果
 
-- color : 1 2 3 3 1
+- **color : 1 2 3 3 1**
+
+#### 详细代码移步
+
+- [图着色](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/src/GraphColor.java)

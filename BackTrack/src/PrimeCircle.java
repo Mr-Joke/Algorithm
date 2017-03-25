@@ -41,6 +41,7 @@ public class PrimeCircle{
   @return 返回素环数数组
   */
   public static int[] getPrimeCircle(int n){
+    if(n <= 1) return null;
     int[] array = init(n);//首先初始化全0，便于每趟从1开始
     int index = 1;
     array[0] = 1;//从一开始考察

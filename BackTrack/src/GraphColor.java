@@ -19,6 +19,10 @@ public class GraphColor{
     Scanner in = new Scanner(System.in);
     System.out.print("输入图的结点数：");
     int n = in.nextInt();
+    if(n <= 0){
+      System.out.println("请认真对待本程序!!!");
+      return;
+    }
     System.out.print("输入图结点之间的关系，0表示不相邻，1表示相邻：");
     int[][] graph = new int[n][n];
     //初始化图
@@ -30,7 +34,7 @@ public class GraphColor{
     System.out.print("输入限制图多少种颜色:");
     int m = in.nextInt();
     int[] result = graphColor(graph,n,m);//获取图着色结果
-    if(result == null) System.out.println(m + "种颜色无法给当前图上色!!!");
+    if(result == null) System.out.println(m + " 种颜色无法给 " + n + "个结点的图上色");
     else{
       for (int i = 0;i < n ;i++ ) {
         System.out.print(result[i] + " ");
@@ -48,6 +52,7 @@ public class GraphColor{
   @return 满足时返回图着色的结果，否则返回空
   */
   public static int[] graphColor(int[][] graph,int n,int m){
+    if(m <= 0) return null;
     int[] color = initColor(n);//初始化数组
     int index = 0;
     while(index >= 0){
