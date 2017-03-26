@@ -30,6 +30,8 @@
 
 - [八皇后问题](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/src/EightQueens.java)
   - [思考过程](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/docs/EightQueens.md)
+- [批处理作业调度问题](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/src/BatchJob.java)
+  - [思考过程](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/docs/BatchJob.md)
 
 #### 2.3其他问题
 
