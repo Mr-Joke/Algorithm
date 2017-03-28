@@ -20,3 +20,4 @@
 #### 2.2其他问题
 
 - [数塔问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/DataTower.java)
+  - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/DataTower.md)

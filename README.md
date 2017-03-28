@@ -19,3 +19,4 @@
 
 - [蛮力法](https://github.com/Mr-Joke/Algorithm/blob/master/brute-force.md)
 - [回溯法](https://github.com/Mr-Joke/Algorithm/blob/master/back-track.md)
+- [动态规划法](https://github.com/Mr-Joke/Algorithm/blob/master/dynamic-programming.md)
