@@ -17,6 +17,9 @@
 
 #### 2.1图问题中的动态规划
 
+- [多段图的最短路径问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/MSGSPP.java)
+  - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/MSGSPP.md)
+
 #### 2.2其他问题
 
 - [数塔问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/DataTower.java)
