@@ -19,6 +19,8 @@
 
 - [多段图的最短路径问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/MSGSPP.java)
   - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/MSGSPP.md)
+- [多源点最短路径问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/Floyd.java)
+  - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/Floyd.md)
 
 #### 2.2其他问题
 

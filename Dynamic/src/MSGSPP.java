@@ -1,3 +1,10 @@
+/**
+Description:<br>
+多段图最短路径实现类(动态规划):<br>
+Time 2017/03/29
+@author Mrzhou
+@version 1.8.0_112
+*/
 import java.util.Scanner;
 public class MSGSPP{
   public static void main(String[] args) {
