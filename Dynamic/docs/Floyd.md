@@ -15,7 +15,7 @@
 
 - **邻接矩阵**
 
-![有向图](BlueBridge/images/multi-spot.png)
+![有向图](../../images/multi-spot.png)
 
 #### 输入
 

@@ -21,6 +21,8 @@
   - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/MSGSPP.md)
 - [多源点最短路径问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/Floyd.java)
   - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/Floyd.md)
+- [最长递增子序列问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/MaxIncreseOrder.java)
+  - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/MaxIncreseOrder.md)
 
 #### 2.2其他问题
 
