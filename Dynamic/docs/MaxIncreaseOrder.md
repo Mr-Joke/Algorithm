@@ -42,4 +42,4 @@
 
 #### 详细代码移步
 
-- [最长递增子序列问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/MaxIncreseOrder.java)
+- [最长递增子序列问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/MaxIncreaseOrder.java)
