@@ -28,6 +28,8 @@
   - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/MaxIncreaseOrder.md)
 - [最长公共子序列问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/MaxPubString.java)
   - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/MaxPubString.md)
+- [0/1背包问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/KnapSack.java)
+  - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/KnapSack.md)
 
 #### 2.3其他问题
 
