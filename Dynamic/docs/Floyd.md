@@ -44,3 +44,7 @@
 #### 详细代码移步
 
 - [多源点最短路径问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/Floyd.java)
+
+#### 算法分析
+
+- 多源点最短路径算法的基本语句比较操作是(dist[y][x] + dist[x][z] < dist[y][z])，设图中顶点有n个，三层嵌套循环实现对二维数组dist迭代n次，其时间复杂度为O(n^3)。

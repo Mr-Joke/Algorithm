@@ -43,7 +43,7 @@ public class MSGSPP{
             path[j] = k;
           }
           else if (temp < minValue[j]) {
-            maxValue[j] = temp;
+            minValue[j] = temp;
             path[j] = k;
           }
         }

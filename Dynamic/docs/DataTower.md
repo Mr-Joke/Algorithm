@@ -51,3 +51,7 @@
 #### 详细代码移步
 
 - [数塔问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/DataTower.java)
+
+#### 算法分析
+
+- 详细代码中，第一个for循环为初始化底层数据，时间代价为O(n)；接下来的双重for循环为填表工作，需要填写n-1行，数组result[][]是一个下三角矩阵，第i行只需填写i个元素，因此，时间代价为O(n^2)；由于数组path已经记载每个决策的列下标，输出路径的时间代价为O(n)。所以，算法的时间复杂度是O(n^2)。

@@ -43,3 +43,7 @@
 #### 详细代码移步
 
 - [最长递增子序列问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/MaxIncreaseOrder.java)
+
+#### 算法分析
+
+- 设序列A的长度为n，算法依次对每一个序列的元素进行计算，在求解length[i]时需要考虑array[0]~array[i-1]是否小于array[i]，因此，其时间复杂度为O(n^2)。

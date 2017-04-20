@@ -44,3 +44,7 @@
 #### 详细代码移步
 
 - [最长公共子序列问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/MaxPubString.java)
+
+#### 算法分析
+
+- 在最长公共子序列的算法中，第一个for循环的时间性能是O(n)，第二个for循环的时间性能是O(m)，第三个for循环是两层的嵌套for循环，其时间性能是O(m*n)，第四个for循环的时间性能是O(k)，而k <= min{m,n}，所以，算法的时间复杂度是O(n*m)。
