@@ -17,21 +17,15 @@
 
 #### 2.1图问题中的动态规划
 
-- [多段图的最短路径问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/MSGSPP.java)
-  - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/MSGSPP.md)
-- [多源点最短路径问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/Floyd.java)
-  - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/Floyd.md)
+- [多段图的最短路径问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/MSGSPP.md)
+- [多源点最短路径问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/Floyd.md)
 
 #### 2.2组合问题的动态规划
 
-- [最长递增子序列问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/MaxIncreaseOrder.java)
-  - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/MaxIncreaseOrder.md)
-- [最长公共子序列问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/MaxPubString.java)
-  - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/MaxPubString.md)
-- [0/1背包问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/KnapSack.java)
-  - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/KnapSack.md)
+- [最长递增子序列问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/MaxIncreaseOrder.md)
+- [最长公共子序列问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/MaxPubString.md)
+- [0/1背包问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/KnapSack.md)
 
 #### 2.3其他问题
 
-- [数塔问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/src/DataTower.java)
-  - [求解思路](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/DataTower.md)
+- [数塔问题](https://github.com/Mr-Joke/Algorithm/blob/master/Dynamic/docs/DataTower.md)

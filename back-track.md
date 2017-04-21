@@ -21,17 +21,13 @@
 
 #### 2.1图问题
 
-- [图着色问题](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/src/GraphColor.java)
-  - [思考过程](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/docs/GraphColor.md)
-- [哈密顿回路问题](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/src/Hamilton.java)
-  - [思考过程](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/docs/Hamilton.md)
+- [图着色问题](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/docs/GraphColor.md)
+- [哈密顿回路问题](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/docs/Hamilton.md)
 
 #### 2.2组合问题
 
-- [八皇后问题](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/src/EightQueens.java)
-  - [思考过程](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/docs/EightQueens.md)
-- [批处理作业调度问题](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/src/BatchJob.java)
-  - [思考过程](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/docs/BatchJob.md)
+- [八皇后问题](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/docs/EightQueens.md)
+- [批处理作业调度问题](https://github.com/Mr-Joke/Algorithm/blob/master/BackTrack/docs/BatchJob.md)
 
 #### 2.3其他问题
 
